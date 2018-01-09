@@ -1,0 +1,7 @@
+#!c:\python27\python.exe
+# This file is part of the snakefood package.  
+# See http://furius.ca/snakefood for license and details.
+
+from snakefood.checker import main
+main()
+
